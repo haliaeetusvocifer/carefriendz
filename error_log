@@ -1,0 +1,14 @@
+[27-Sep-2016 03:50:40 Africa/Lagos] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/carefrie/public_html/index.php on line 341
+[29-Sep-2016 22:18:09 Africa/Lagos] PHP Parse error:  syntax error, unexpected ')' in /home/carefrie/public_html/donate.php on line 18
+[29-Sep-2016 22:18:23 Africa/Lagos] PHP Parse error:  syntax error, unexpected ')' in /home/carefrie/public_html/donate.php on line 18
+[29-Sep-2016 22:19:57 Africa/Lagos] PHP Parse error:  syntax error, unexpected ')' in /home/carefrie/public_html/donate.php on line 18
+[29-Sep-2016 22:20:12 Africa/Lagos] PHP Parse error:  syntax error, unexpected ')' in /home/carefrie/public_html/donate.php on line 18
+[04-Oct-2016 05:10:47 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
+[04-Oct-2016 05:11:22 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
+[04-Oct-2016 09:29:22 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
+[04-Oct-2016 09:29:25 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
+[04-Oct-2016 09:29:45 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
+[04-Oct-2016 09:29:49 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
+[04-Oct-2016 09:31:04 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
+[04-Oct-2016 09:32:35 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
+[04-Oct-2016 09:38:03 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'donor_view' (T_STRING) in /home/carefrie/public_html/donate.php on line 111
